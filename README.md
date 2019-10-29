@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pmurphy35/Pipeline%20Training/_apis/build/status/Murp01.pipelines-java?branchName=master)](https://dev.azure.com/pmurphy35/Pipeline%20Training/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
